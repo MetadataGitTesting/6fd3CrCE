@@ -1,6 +1,6 @@
 name: antione.white
 description: matrices
-version: 9.6.2.771
+version: 0.1.3.280
 author: prophecy-system@prophecy.io
 language: scala
 buildSystem: ''
@@ -15,8 +15,8 @@ datasets: {}
 templates: {}
 jobs: {}
 gemContainer:
-  languageVersion: ''
-  gemLibsVersion: ''
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
   gems: {}
   dependencies: null
 functions:
