@@ -1,0 +1,58 @@
+name: antione.white
+description: matrices
+version: 9.6.2.771
+author: prophecy-system@prophecy.io
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: antionewhite
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2026-01-30 16:36:17'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2026-01-30 16:36:17'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2026-01-30T16:36:17.368168Z'
+  name: plibMaven
+  version: 9.1.0-SNAPSHOT
+  id: '65992833'
+  createdAt: '2026-01-30T16:36:17.368168Z'
+  type: plibMaven
+projectDependencies:
+  '471':
+    projectUID: 471
+    projectName: keith.durgan
+    repositoryPath: gitUri=http://gitserver:3000/dev_Lh3vIyOL_team_772/dev_Lh3vIyOL_project_471.git&subPath=
+    version: keith.durgan/0.6.9.916
+    isDefault: false
+    author: null
+    createdAt: '2026-01-30 16:36:15'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
